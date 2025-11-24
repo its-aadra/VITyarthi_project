@@ -48,7 +48,7 @@ Financial-Investment-Recommender/
 ├── investment_recommender.py     # Main Python program
 ├── README.md                     # Project documentation
 ├── screenshots/                  # Output screenshots
-│     └── result_example.png
+│   
 └── project_report.pdf            # Detailed report 
 
 ## Data Set Source and Citation
@@ -87,7 +87,6 @@ Financial-Investment-Recommender/
 
 ## Author
 -**Name:** Aadra Khattri
--**Reg. No. :** 25BAI11012
 
 ## License
 - This project is licensed under the **MIT License** - free to use and modify for learning purposes
