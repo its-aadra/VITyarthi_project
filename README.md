@@ -1,4 +1,4 @@
-# Financial_Investment_Assistant
+# Financial_Investment_Recommender
 
 ## Problem Statement and Objectives
 
